@@ -1,5 +1,5 @@
 # Food Ordering App UI
-  An online food ordering app UI created in Flutter
+  Online food ordering using flutter
   
 ## Preview
 
